@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Organización Interna
+subtitle: Todo lo que necesitas saber sobre R2SI
 ---
 
 - **LEGENDARIUM**: Escribas. Administrar los recursos multimedia del clan: Página web, foro, documentos visuales, publicidad etc.
