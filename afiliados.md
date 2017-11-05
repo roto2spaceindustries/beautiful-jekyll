@@ -9,6 +9,8 @@ bigimg:
   - "/img/big/background53" : ""
 ---
 
+¿Quieres que tu organización forme parte de R2SI? Escríbenos en [[Spectrum]](https://robertsspaceindustries.com/spectrum/community/ROTO2/forum/16985?page=1&sort=hot)
+
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
