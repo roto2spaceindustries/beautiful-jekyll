@@ -94,8 +94,8 @@ footer-links-active:
   stackoverflow: false
   snapchat: false
   instagram: false
-  youtube: false
-  spotify: true
+  youtube: true
+  spotify: false
   telephone: false
   steam: false
   twitch: true
