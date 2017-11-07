@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Plus Ultra Aeroespacial
-image: /img/PUA-Logo.png
+image: https://robertsspaceindustries.com/media/7tmbd6blxzhmcr/logo/PUA-Logo.png
 tags: [Afiliado]
 ---
 
