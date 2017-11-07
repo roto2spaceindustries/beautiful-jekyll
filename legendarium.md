@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Legendarium
-subtitle: Portadores de la palabra, predicadores de la verdadera fé, en Roto2 creemos y por el luchamos. Ambicionad Shurmanos.
+subtitle: Portadores de la palabra, predicadores de la verdadera fé, en Roto2 creemos y por el luchamos
 ---
 
 De una organización cuyo nombre se perdió en la historia, fundada en los albores del siglo XXI por el innombrable, a quien se borro de la historia al acabar su tiranía, nacería la Roto2 Space Industries. Poco después se descubriría a Roto2 que se convirtió en un estandarte, pero a la larga se convertiría en mas que un símbolo, se convertiría en una forma de vida y en una deidad, su procedencia incluso en aquellos día era desconocida, se sabe que fue visto por primera vez en tierras germanas, pero nada se sabe de su origen o de su creador si lo hubiese. La organización se forjo en luchas contra otras organizaciones similares y vivió su propia guerra civil una noche de verano de finales de la primera década del siglo, recordada como la noche de los reportes largos, significo una diezma de la sociedad Shurmana, con una corriente flanderosa censuradora y no permitir nuevos miembros llego una decadencia, la otrora organización formada por shurmanos de excepcionales facultades físicas (los 30 cm reglamentario) y de alto poder adquisitivo (los 3000€ mensuales), se convirtió en una organización opresora, lo que llevo a los shurmanos que quedaban a fundar su propia isla-estado durante la segunda década del siglo.
