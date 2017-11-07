@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Plus Ultra Aeroespacial
-image: /img/hello_world.jpeg
+image: /img/PUA-Logo.png
 tags: [Afiliado]
 ---
 
