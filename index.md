@@ -27,10 +27,10 @@ Nuestros Servicios son:
     <th>Industria</th>
   </tr>
   <tr>
-    <td><img src="/img/exploracion.jpg></td>
-    <td><img src="/img/comercio.jpg></td> 
-    <td><img src="/img/combate.jpg></td>
-    <td><img src="/img/industria.jpg></td>
+    <td><img src="/img/exploracion.jpg"></td>
+    <td><img src="/img/comercio.jpg"></td> 
+    <td><img src="/img/combate.jpg"></td>
+    <td><img src="/img/industria.jpg"></td>
   </tr>
   <tr>
     <td>El universo no tiene limites para nuestros exploradores, pide lo imposible y lo obtendras.</td>
