@@ -22,3 +22,21 @@ Nuestros Servicios son:
 Exploración | Comercio | Seguridad | Industria
 [[/img/exploracion.jpg]]   | [[/img/comercio.jpg]]   | [[/img/combate.jpg]]  | [[/img/industria.jpg]]
 El universo no tiene limites para nuestros exploradores, pide lo imposible y lo obtendras.    | Estamos tejiendo una gran red comercial para suministrar y abastecer todo tipo de materiales, desde fabricas hasta grandes naves de transportes, tenemos todo lo necesario para llevar cualquier carga a cualquier punto del universo de forma segura y eficiente.   | Preocupados por un universo en constantes guerras, disponemos de lo necesario para protegernos y para protegerte.   | La autosuficiencia es una de nuestras bases, nuestras fabricas disponen de una red de naves para que las abastezcan y para que distribuyan sus producciones. Tambien disponemos de escuadras para proteger las fabricas, ante todo seguridad.
+
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td> 
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td> 
+    <td>94</td>
+  </tr>
+</table>
