@@ -27,15 +27,15 @@ Nuestros Servicios son:
     <th>Industria</th>
   </tr>
   <tr>
-    <td>[[/img/exploracion.jpg]]</td>
-    <td>[[/img/comercio.jpg]] </td> 
-    <td>[[/img/combate.jpg]]</td>
-    <td>[[/img/industria.jpg]]</td>
+    <td><img src="/img/exploracion.jpg></td>
+    <td><img src="/img/comercio.jpg></td> 
+    <td><img src="/img/combate.jpg></td>
+    <td><img src="/img/industria.jpg></td>
   </tr>
   <tr>
     <td>El universo no tiene limites para nuestros exploradores, pide lo imposible y lo obtendras.</td>
-    <td>Estamos tejiendo una gran red comercial para suministrar y abastecer todo tipo de materiales, desde fabricas hasta grandes naves de transportes, tenemos todo lo necesario para llevar cualquier carga a cualquier punto del universo de forma segura y eficiente.</td> 
+    <td>Nuestra red comercial para proporciona y abastece todo tipo de suministros.</td> 
     <td>Preocupados por un universo en constantes guerras, disponemos de lo necesario para protegernos y para protegerte.</td>
-    <td>La autosuficiencia es una de nuestras bases, nuestras fabricas disponen de una red de naves para que las abastezcan y para que distribuyan sus producciones. Tambien disponemos de escuadras para proteger las fabricas, ante todo seguridad.</td>
+    <td>Nuestras fabricas disponen de una red de naves para que las abastezcan y para que distribuyan sus producciones.</td>
   </tr>
 </table>
