@@ -18,4 +18,8 @@ bigimg:
   - "/img/big/37881875816_bdea1ad207_k.jpg" : "by mr.hasgaha"
 ---
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Nuestros Servicios son:
+| Exploración | Comercio | Seguridad | Industria |
+| ---------- | ---------- | ---------- | ---------- |
+| [[https://snavas.github.io/r2si/images/exploracion.jpg]]   | [[https://snavas.github.io/r2si/images/comercio.jpg]]   | [[https://snavas.github.io/r2si/images/combate.jpg]]  | [[https://snavas.github.io/r2si/images/industria.jpg]]   |
+| El universo no tiene limites para nuestros exploradores, pide lo imposible y lo obtendras.    | Estamos tejiendo una gran red comercial para suministrar y abastecer todo tipo de materiales, desde fabricas hasta grandes naves de transportes, tenemos todo lo necesario para llevar cualquier carga a cualquier punto del universo de forma segura y eficiente.   | Preocupados por un universo en constantes guerras, disponemos de lo necesario para protegernos y para protegerte.   | La autosuficiencia es una de nuestras bases, nuestras fabricas disponen de una red de naves para que las abastezcan y para que distribuyan sus producciones. Tambien disponemos de escuadras para proteger las fabricas, ante todo seguridad.   |
