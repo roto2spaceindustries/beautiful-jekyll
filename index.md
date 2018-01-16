@@ -18,7 +18,7 @@ bigimg:
   - "/img/big/37881875816_bdea1ad207_k.jpg" : "by mr.hasgaha"
 ---
 
-Nuestros Servicios son:
+Ofrecemos una amplia gama de prestaciones y servicios:
 
 <div class="row">
   <div class="col-md-3">
