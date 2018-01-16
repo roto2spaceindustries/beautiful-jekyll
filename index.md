@@ -19,23 +19,52 @@ bigimg:
 ---
 
 Nuestros Servicios son:
-<table style="width:100%">
-  <tr>
-    <th>Exploración</th>
-    <th>Comercio</th> 
-    <th>Seguridad</th>
-    <th>Industria</th>
-  </tr>
-  <tr>
-    <td><img src="/img/exploracion.jpg"></td>
-    <td><img src="/img/comercio.jpg"></td> 
-    <td><img src="/img/combate.jpg"></td>
-    <td><img src="/img/industria.jpg"></td>
-  </tr>
-  <tr>
-    <td>El universo no tiene limites para nuestros exploradores, pide lo imposible y lo obtendras.</td>
-    <td>Nuestra red comercial para proporciona y abastece todo tipo de suministros.</td> 
-    <td>Preocupados por un universo en constantes guerras, disponemos de lo necesario para protegernos y para protegerte.</td>
-    <td>Nuestras fabricas disponen de una red de naves para que las abastezcan y para que distribuyan sus producciones.</td>
-  </tr>
-</table>
+
+<div class="row">
+  <div class="col-md-3">
+    <div class="thumbnail">
+      <a href="#">
+        <img src="/img/exploracion.jpg" class="img-thumbnail">
+        <div class="caption">
+          <p>Exploración</p>
+        </div>
+      </a>
+    </div>
+  </div>
+  <div class="col-md-3">
+    <div class="thumbnail">
+      <a href="#">
+        <img src="/img/comercio.jpg" class="img-thumbnail">
+        <div class="caption">
+          <p>Comercio</p>
+        </div>
+      </a>
+    </div>
+  </div>
+  <div class="col-md-3">
+    <div class="thumbnail">
+      <a href="#">
+        <img src="/img/combate.jpg" class="img-thumbnail">
+        <div class="caption">
+          <p>Seguridad</p>
+        </div>
+      </a>
+    </div>
+  </div>
+  <div class="col-md-3">
+    <div class="thumbnail">
+      <a href="#">
+        <img src="/img/industria.jpg" class="img-thumbnail">
+        <div class="caption">
+          <p>Industria</p>
+        </div>
+      </a>
+    </div>
+  </div>
+</div>
+
+    %<td>El universo no tiene limites para nuestros exploradores, pide lo imposible y lo obtendras.</td>
+    %<td>Nuestra red comercial para proporciona y abastece todo tipo de suministros.</td> 
+    %<td>Preocupados por un universo en constantes guerras, disponemos de lo necesario para protegernos y para protegerte.</td>
+    %<td>Nuestras fabricas disponen de una red de naves para que las abastezcan y para que distribuyan sus producciones.</td>
+
