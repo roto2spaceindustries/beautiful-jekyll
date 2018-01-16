@@ -62,9 +62,10 @@ Nuestros Servicios son:
     </div>
   </div>
 </div>
-
+<!--
     %<td>El universo no tiene limites para nuestros exploradores, pide lo imposible y lo obtendras.</td>
     %<td>Nuestra red comercial para proporciona y abastece todo tipo de suministros.</td> 
     %<td>Preocupados por un universo en constantes guerras, disponemos de lo necesario para protegernos y para protegerte.</td>
     %<td>Nuestras fabricas disponen de una red de naves para que las abastezcan y para que distribuyan sus producciones.</td>
+-->
 
