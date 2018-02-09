@@ -20,6 +20,43 @@ bigimg:
 
 Ofrecemos una amplia gama de prestaciones y servicios:
 
+<div class="card card-inverse">
+  <img class="card-img" src="/img/exploracion.jpg" alt="Card image">
+  <div class="card-img-overlay">
+    <h4 class="card-title">Exploration</h4>
+    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+  </div>
+</div>
+
+<div class="card card-inverse">
+  <img class="card-img" src="/img/comercio.jpg" alt="Card image">
+  <div class="card-img-overlay">
+    <h4 class="card-title">Comercio</h4>
+    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+  </div>
+</div>
+
+<div class="card card-inverse">
+  <img class="card-img" src="/img/combate.jpg" alt="Card image">
+  <div class="card-img-overlay">
+    <h4 class="card-title">Seguridad</h4>
+    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+  </div>
+</div>
+
+<div class="card card-inverse">
+  <img class="card-img" src="/img/industria.jpg" alt="Card image">
+  <div class="card-img-overlay">
+    <h4 class="card-title">Industria</h4>
+    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+    <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+  </div>
+</div>
+
+<!--
 <div class="row">
   <div class="col-md-3">
     <div class="thumbnail">
@@ -61,7 +98,8 @@ Ofrecemos una amplia gama de prestaciones y servicios:
       </a>
     </div>
   </div>
-</div>
+  
+</div> -->
 <!--
     %<td>El universo no tiene limites para nuestros exploradores, pide lo imposible y lo obtendras.</td>
     %<td>Nuestra red comercial para proporciona y abastece todo tipo de suministros.</td> 
