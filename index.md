@@ -19,7 +19,7 @@ bigimg:
 ---
 
 Ofrecemos una amplia gama de prestaciones y servicios:
-
+<!-- 
 <div class="row">
   <div class="col-sm-6">
     <div class="card card-inverse">
