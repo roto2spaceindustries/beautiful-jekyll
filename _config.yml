@@ -49,11 +49,11 @@ title-img: "https://snavas.github.io/r2si/images/logo/logo_condensed_white.png"
 # By default, the navigation bar and footer have a light gray background, and the main page
 # has a white background. You can specify a different background colour or a background image
 # for the navigation bar, the main page, and the footer.
-#navbar-col: "#002C45"
+navbar-col: "##0A1B2C"
 # navbar-img: "/img/bgimage.png"
-#footer-col: "#00172B"
+footer-col: "#546E7A"
 # footer-img: "/img/bgimage.png"
-#page-col: "#FF0000"
+page-col: "#F9FBFC"
 #page-img: "/img/bg-stars-2560.jpg"
 
 # --- Footer options --- #
